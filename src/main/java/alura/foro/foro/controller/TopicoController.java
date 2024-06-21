@@ -1,6 +1,5 @@
 package alura.foro.foro.controller;
 
-import alura.foro.foro.domain.autor.dto.DatosActualizarAutor;
 import alura.foro.foro.domain.topico.TopicoService;
 import alura.foro.foro.domain.topico.dto.DatosActualizarTopico;
 import alura.foro.foro.domain.topico.dto.DatosCrearTopico;

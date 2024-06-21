@@ -1,10 +1,7 @@
 package alura.foro.foro.domain.topico.dto;
 
-import alura.foro.foro.domain.autor.Autor;
 import alura.foro.foro.domain.autor.dto.DatosAutor;
-import alura.foro.foro.domain.topico.Curso;
 import alura.foro.foro.domain.topico.Topico;
-import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
 

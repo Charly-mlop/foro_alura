@@ -2,8 +2,6 @@ package alura.foro.foro.domain.topico;
 
 import alura.foro.foro.domain.autor.Autor;
 import alura.foro.foro.domain.autor.AutorRepository;
-import alura.foro.foro.domain.autor.dto.DatosAutor;
-import alura.foro.foro.domain.autor.dto.DatosDetallesAutor;
 import alura.foro.foro.domain.topico.dto.*;
 import alura.foro.foro.infra.error.AutorInactivoException;
 import jakarta.transaction.Transactional;
